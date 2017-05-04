@@ -1,7 +1,7 @@
 {
   "name": "appxpress-autocomplete",
   "main": "./lib/package-init",
-  "version": "1.0.1",
+  "version": "0.0.0",
   "description": "Autocomplete tool to assist GT Nexus platform scripting developers",
   "repository" : "https://github.com/AppXpress/appxpress-autocomplete",
   "keywords": ["appxpress" , "GT Nexus"],
